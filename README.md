@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prajwal HN
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Backend API on nodejs
+- 👀 I’m interested in Data Scientist
+- 🌱 I’m currently learning Data analytics and Big Data
 - 💞️ I’m looking to collaborate on your Institution
 - 📫 How to reach me https://github.com/Typhon69
 
