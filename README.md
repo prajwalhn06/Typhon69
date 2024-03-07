@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Prajwal HN
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Data analytics and Big Data
+- 👀 I’m interested in Devops Engineer
+- 🌱 I’m currently learning AWS Devops Trainig
 - 💞️ I’m looking to collaborate on your Institution
-- 📫 How to reach me https://github.com/Typhon69
+- 📫 How to reach me https://github.com/prajwalhn06
 
 <!---
 Typhon69/Typhon69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
